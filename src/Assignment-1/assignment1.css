@@ -5,3 +5,39 @@
 width: 100%;
 height: 100%;
 }
+html,body 
+ {
+    padding:0;
+    margin:0;
+    height:100%;
+    min-height:100%;
+   font-family: arial;
+  }
+.part1 {
+  background-color:black;
+  width:50%; 
+  height:50%; 
+  color:white;
+  float:left}
+.part2 {
+  background-color:white;
+  width:50%;
+  height:50%;
+  float:left}
+.part2 img{
+  width:100%;
+  height:100%
+}
+.part3 {
+  width:50%; 
+  height:50%; 
+  float:left}   
+.part3 img{
+  width:100%;
+  height:100%
+}
+.part4 {
+  background-color:yellow;
+  width:50%;
+  height:50%; 
+  float:left}
